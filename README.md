@@ -1,2 +1,2 @@
 # ta_training-java
-repositot
+repository for the course "Automated Testing Foundations with Java"
